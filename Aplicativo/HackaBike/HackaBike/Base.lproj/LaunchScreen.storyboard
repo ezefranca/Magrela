@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Montserrat-Light.ttf">
+            <string>Montserrat-Light</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Splash" translatesAutoresizingMaskIntoConstraints="NO" id="hgE-Q2-tUD">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="COPYRIGHT @2016 EZEQUIEL FRANÇA, HUMBERTO VIEIRA, JUNIOR MAGUALHÃOS, MICHELLY SORGE, PAULO HENRIQUE LEITE, RENAN LINO" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9fd-bc-eQB">
+                                <rect key="frame" x="16" y="607" width="343" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="buy-cx-Ugn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Montserrat-Light" family="Montserrat" pointSize="9"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="hgE-Q2-tUD" secondAttribute="bottom" id="8iC-id-RBD"/>
+                            <constraint firstItem="hgE-Q2-tUD" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" id="BPJ-nX-lzs"/>
+                            <constraint firstItem="hgE-Q2-tUD" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Ebg-m2-re0"/>
+                            <constraint firstItem="9fd-bc-eQB" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailingMargin" id="Hdv-BG-yg1"/>
+                            <constraint firstItem="9fd-bc-eQB" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="Jo8-bS-6gp"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="9fd-bc-eQB" secondAttribute="bottom" constant="20" id="dWy-Iz-we3"/>
+                            <constraint firstItem="hgE-Q2-tUD" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="topMargin" id="oWb-Up-Zki"/>
+                            <constraint firstAttribute="trailing" secondItem="hgE-Q2-tUD" secondAttribute="trailing" id="vlk-Ok-qWC"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="BPJ-nX-lzs"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.5" y="374.5"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Splash" width="250" height="444"/>
+    </resources>
+</document>

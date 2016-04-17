@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/DevicesVC.swift"
+            timestampString = "482559484.538097"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "centralManager(_:didDiscoverPeripheral:advertisementData:RSSI:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackaBike.DevicesVC.centralManager (__ObjC.CBCentralManager, didDiscoverPeripheral : __ObjC.CBPeripheral, advertisementData : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, RSSI : __ObjC.NSNumber) -&gt; ()"
+                  moduleName = "HackaBike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/Hackathon-Angel/HackaBikeAngel/HackaBike/HackaBike/DevicesVC.swift"
+                  timestampString = "482559486.656729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackaBike.DevicesVC.centralManager (__ObjC.CBCentralManager, didDiscoverPeripheral : __ObjC.CBPeripheral, advertisementData : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, RSSI : __ObjC.NSNumber) -&gt; ()"
+                  moduleName = "HackaBike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/Hackathon-Angel/HackaBikeAngel/HackaBike/HackaBike/DevicesVC.swift"
+                  timestampString = "482559486.656938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/DevicesVC.swift"
+            timestampString = "482562403.401589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "peripheral(_:didDiscoverCharacteristicsForService:error:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482571862.583032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "mapView(_:viewForAnnotation:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482571862.583032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "mapView(_:viewForAnnotation:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482571862.583032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "mapView(_:viewForAnnotation:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482571862.583032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "mapView(_:viewForAnnotation:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482572699.257403"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "mapView(_:annotationView:calloutAccessoryControlTapped:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482572957.711218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "mapView(_:didSelectAnnotationView:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482572996.884876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "mapView(_:didSelectAnnotationView:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482573000.300214"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
+            landmarkName = "mapView(_:didSelectAnnotationView:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackaBike.MapKitVC.mapView (__ObjC.MKMapView, didSelectAnnotationView : __ObjC.MKAnnotationView) -&gt; ()"
+                  moduleName = "HackaBike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/Hackathon-Angel/HackaBikeAngel/HackaBike/HackaBike/MapKitVC.swift"
+                  timestampString = "482573000.31123"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackaBike.MapKitVC.mapView (__ObjC.MKMapView, didSelectAnnotationView : __ObjC.MKAnnotationView) -&gt; ()"
+                  moduleName = "HackaBike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/Hackathon-Angel/HackaBikeAngel/HackaBike/HackaBike/MapKitVC.swift"
+                  timestampString = "482573000.311399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "2764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackaBike/MapKitVC.swift"
+            timestampString = "482573000.822992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "mapView(_:didSelectAnnotationView:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
